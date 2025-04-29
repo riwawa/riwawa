@@ -15,8 +15,8 @@
 ## 💼 Projetos em destaque
 
 - [**Crude Server**](https://github.com/riwawa/crude-server) - Web Server (C++, HTML, CSS)
-- 🛍️ [**PriceTrackr**](https://github.com/riwawa/pricetrackr) – Web app para rastrear preços de produtos com scraping e histórico automático (FastAPI + Python + SQLite + HTML/CSS).
-- 🎬 Sistema de Avaliação de Filmes – Projeto Java Spring Boot com Thymeleaf. (em progresso)
+- [**PriceTrackr**](https://github.com/riwawa/pricetrackr) – Web app para rastrear preços de produtos com scraping e histórico automático (FastAPI + Python + SQLite + HTML/CSS).
+- Sistema de Avaliação de Filmes – Projeto Java Spring Boot com Thymeleaf. (em progresso)
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riwawa&show_icons=true&theme=tokyonight&count_private=true" />
