@@ -12,6 +12,7 @@
 🎀 aprendendo ciência de dados, machine learning e estudando idiomas
 
 🐈‍⬛ tentando criar projetos full stack
+
 ---
 
 ### 🍓 O que eu uso diariamente
