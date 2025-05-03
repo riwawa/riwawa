@@ -3,4 +3,4 @@
 Eu sou a Bia, estudante de engenharia da computação de Manaus, AM, atualmente morando em São Paulo!
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=riwawa&theme=neon&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riwawa)](https://github.com/riwawa/github-readme-stats)
