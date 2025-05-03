@@ -1,6 +1,22 @@
-![image](https://github.com/user-attachments/assets/edefa236-91e5-4f11-8a2f-55a6fbd5627e) Olá <3
+<h1 align="center">Olá, sou a Bia!!</h1>
 
-Eu sou a Bia, estudante de engenharia da computação de Manaus, AM, atualmente morando em São Paulo!
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ff/c5/6e/ffc56efbdb3463e28f6389734c6f96fd.gif" height="200"/>
+</p>
 
+---
+💖 estudante de engenharia de computação
+🌷 treinando programação competitiva  
+🎀 aprendendo ciência de dados, machine learning e estudando idiomas
+🐈‍⬛ tentando criar projetos full stack
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riwawa)](https://github.com/riwawa/github-readme-stats)
+### 🍓 O que eu uso diariamente
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,vite,spring,sqlite,mysql,git,vscode&theme=light" />
+</div>
+---
+<p align="center">
+  <img src="https://64.media.tumblr.com/04c19d8b4e32ae44967229db3e50f6e4/tumblr_inline_ptsid5R9JX1rb9k0l_540.gif" height="120"/>
+</p>
