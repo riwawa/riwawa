@@ -18,8 +18,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,vite,spring,sqlite,mysql,git,vscode&theme=light" /> 
 </div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riwawa&layout=compact"/>
-
+</div>
 
 ---
 
