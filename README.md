@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,vite,spring,sqlite,mysql,git,vscode&theme=light" /> 
 </div>
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riwawa&layout=compact&theme=neon)
+  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riwawa&layout=compact&theme=light)
 </div>
 
 
