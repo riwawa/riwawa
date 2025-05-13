@@ -8,7 +8,6 @@
 
 💖 estudante de engenharia de computação  
 🌷 treinando programação competitiva  
-🎀 🇧🇷🇬🇧🇯🇵🇨🇳 
 🐈‍⬛ tentando criar projetos full stack  
 
 ---
