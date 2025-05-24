@@ -6,12 +6,6 @@
 
 ---
 
-💖 estudante de engenharia de computação  
-🌷 treinando programação competitiva  
-🐈‍⬛ tentando criar projetos full stack  
-
----
-
 ### 🍓 O que eu uso diariamente
 
 <div align="center">
