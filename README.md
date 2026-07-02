@@ -34,9 +34,10 @@
 </div>
 
 
+
 <div align="center">
 
-<a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=6F8AFF" /></a>
+<a href="https://linkedin.com/in/beatriz-lucena-santos"><img src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=6F8AFF" /></a>
 <a href="mailto:bialcnadev@gmail.com"><img src="https://img.shields.io/badge/Email-05070D?style=for-the-badge&logo=gmail&logoColor=6F8AFF" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-05070D?style=for-the-badge&logo=vercel&logoColor=6F8AFF" /></a>
 
