@@ -44,6 +44,3 @@
 
 <br>
 
-<div align="center">
-<sub>▸são paulo, br</sub>
-</div>
