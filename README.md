@@ -6,7 +6,6 @@
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-3D63FF?style=for-the-badge&labelColor=05070D" />
 <img src="https://img.shields.io/badge/LOCATION-S%C3%A3o%20Paulo%2C%20BR-3D63FF?style=for-the-badge&labelColor=05070D" />
-<img src="https://img.shields.io/badge/OPEN%20TO-FREELANCE-FF3B4E?style=for-the-badge&labelColor=05070D" />
 
 </div>
 
